@@ -57,12 +57,12 @@
 	<!-- 让maven知道，当我要发布release版本或者snapshot版本时 需要发布到哪个地址 -->
 	<distributionManagement>
 		<repository>
-			<id>nexus-releases</id>
+			<id>releases</id>
 			<name>NexusRelease Repository</name>
 			<url>http://git.mytijian.com:8081/nexus/content/repositories/releases</url>
 		</repository>
 		<snapshotRepository>
-			<id>nexus-snapshots</id>
+			<id>snapshots</id>
 			<name>nexus distribution snapshot repository</name>
 			<url>http://git.mytijian.com:8081/nexus/content/repositories/snapshots</url>
 		</snapshotRepository>
