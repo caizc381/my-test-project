@@ -1,4 +1,4 @@
-package com.mytijian.my_test_git_scm;
+package com.mytijian;
 
 /**
  * Hello world!
