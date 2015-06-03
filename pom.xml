@@ -87,7 +87,7 @@
 					<useReleaseProfile>false</useReleaseProfile>
 					<goals>deploy</goals>
 					<scmCommentPrefix>[bus-core-api-release-checkin]- </scmCommentPrefix>
-					<tabBase>https://github.com/caizc381/my-test-project.git</tabBase>
+<!-- 					<tabBase>https://github.com/caizc381/my-test-project.git</tabBase> -->
 				</configuration>
 			</plugin>
 			<plugin>
